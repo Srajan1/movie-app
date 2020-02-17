@@ -1,2 +1,2 @@
 # movie-app
-gives information about movies using omdb api
+in order to use the app host the file app.js on a local server
